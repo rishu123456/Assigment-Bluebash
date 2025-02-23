@@ -18,7 +18,7 @@ This is a frontend-replica to the concept of Microservices used in any API build
 
 ## About
 
-This project consist of three pieces, a host app `container` and two remotes `app1` `app2`.
+This project consist of three pieces, a host app `container` and two remotes `EmailApp` `CHatApp`.
 
 Workflow:
 
@@ -51,13 +51,9 @@ npm run start
 Lerna will start all your projects parallelly and open your browser.
 
 - http://localhost:3000/ (container)
-- http://localhost:3001/ (app1)
-- http://localhost:3002/ (app2)
+- http://localhost:3001/ (EmailApp)
+- http://localhost:3002/ (ChatApp)
 
 ## Screenshots
 
 ![App Screenshot](./app.png)
-
-## Article
-
-POC made with reference to the article on Micro Frontends. [Introduction to Micro Frontends with Module Federation, React and Typescript](https://ogzhanolguncu.com/blog/micro-frontends-with-module-federation)

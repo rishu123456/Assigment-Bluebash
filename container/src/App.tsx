@@ -54,13 +54,7 @@ const App = () => (
 					</React.Suspense>
 				</Flex>
 			</Flex>
-			<Link
-				marginTop="5rem"
-				href="https://github.com/ogzhanolguncu/react-typescript-module-federation"
-				target="_blank"
-			>
-				<Image src="./git.png" height="45px" width="45px" />
-			</Link>
+			
 		</Center>
 	</>
 );
