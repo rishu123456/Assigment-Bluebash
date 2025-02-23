@@ -26,6 +26,13 @@ Workflow:
 - `app2` expose CounterAppTwo header component.
 - `container` import CounterAppOne and CounterAppTwo component.
 
+## Setup and clonning
+- run
+- git clone https://github.com/rishu123456/Assigment-Bluebash
+- npm install
+
+## After that
+
 ## Running Demo
 
 In order to run the demo I highly recommend installing lerna globally via
