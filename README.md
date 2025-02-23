@@ -54,6 +54,3 @@ Lerna will start all your projects parallelly and open your browser.
 - http://localhost:3001/ (EmailApp)
 - http://localhost:3002/ (ChatApp)
 
-## Screenshots
-
-![App Screenshot](./app.png)
